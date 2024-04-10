@@ -1,6 +1,9 @@
 # ThesisBot 🤖
 ThesisBot is your intelligent companion for navigating through intricate thesis documents. Powered by LLM, this chatbot offers an interactive platform for querying and exploring thesis content. Whether you need summaries, clarifications, or deeper insights, ThesisBot is here to assist you. With its user-friendly Streamlit interface, ThesisBot provides a conversational experience that simplifies the process of engaging with academic research. 
 
+![Function call](/assets/images/thesis-chatbot.drawio.png)
+
+
 # How to run?
 ### STEPS:
 
